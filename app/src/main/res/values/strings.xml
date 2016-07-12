@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PraRecycleView</string>
+
+    <string-array name="kraje">
+        <item>Arsenal</item>
+        <item>Chelsea</item>
+        <item>Everton</item>
+        <item>Liverpool</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Reading</item>
+        <item>tottenham</item>
+        </string-array>
+
+
+    <string-array name="gwiazdy">
+        <item>Ozil</item>
+        <item>Hazard</item>
+        <item>Lukaku</item>
+        <item>Coutinho</item>
+        <item>Silva</item>
+        <item>Rooney</item>
+        <item>Olisadebe</item>
+        <item>Kane</item>
+
+    </string-array>
+</resources>
